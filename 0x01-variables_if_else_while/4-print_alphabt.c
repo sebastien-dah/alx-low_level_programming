@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	char alp[26] = "abcdfghijklmnoprstuvwxyz";
+	char alp[24] = "abcdfghijklmnoprstuvwxyz";
 	int i;
 	char n = '\n';
 
