@@ -8,6 +8,7 @@
 int main(void)
 {
 	int num;
+	
 	putchar('0');
 
 	for (num = 1; num < 10; num++)
